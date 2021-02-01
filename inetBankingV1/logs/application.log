@@ -1,0 +1,342 @@
+2021-01-24 17:07:04,242 [main] INFO ebanking - ********URL is Open*********
+2021-01-24 17:07:06,495 [main] INFO ebanking - ********Entered UserName*********
+2021-01-24 17:07:06,864 [main] INFO ebanking - ********Entered Password*********
+2021-01-24 17:07:08,061 [main] INFO ebanking - ********Login test passed*********
+2021-01-25 17:17:42,760 [main] INFO ebanking - ********URL is Open*********
+2021-01-25 17:17:45,073 [main] INFO ebanking - ********Entered UserName*********
+2021-01-25 17:17:45,171 [main] INFO ebanking - ********Entered Password*********
+2021-01-25 17:17:46,609 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 11:59:58,603 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 12:00:01,068 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 12:00:01,196 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 12:00:03,073 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 12:00:27,659 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 12:00:30,126 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 12:00:30,318 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 12:00:32,078 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 12:01:05,898 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 12:01:06,419 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 12:01:06,491 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 12:01:08,655 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 12:09:28,920 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 12:09:31,448 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 12:09:31,591 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 12:09:33,097 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:14:57,704 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:14:59,984 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:15:00,182 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:15:01,598 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:18:07,048 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:18:09,369 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:18:09,454 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:18:10,723 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:21:13,058 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:21:15,382 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:21:15,459 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:21:16,858 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:23:22,079 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:23:24,418 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:23:24,516 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:31:44,108 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:31:46,414 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:31:46,556 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:31:47,763 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:33:31,808 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:33:34,103 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:33:34,194 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:33:35,527 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:39:14,630 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:39:16,953 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:39:17,037 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:39:18,058 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:49:24,155 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:49:26,477 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:49:26,565 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:49:27,666 [main] INFO ebanking - ********Login test passed*********
+2021-01-26 16:50:35,512 [main] INFO ebanking - ********URL is Open*********
+2021-01-26 16:50:37,806 [main] INFO ebanking - ********Entered UserName*********
+2021-01-26 16:50:37,878 [main] INFO ebanking - ********Entered Password*********
+2021-01-26 16:50:38,962 [main] INFO ebanking - ********Login test passed*********
+2021-01-27 14:52:17,638 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 14:52:19,864 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 14:52:22,038 [main] INFO ebanking - *******Test is started********
+2021-01-27 14:52:22,553 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 14:52:22,721 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 14:52:24,112 [main] INFO ebanking - ********Login test passed*********
+2021-01-27 14:52:24,117 [main] INFO ebanking - *******Test is Sucessfully Execute********
+2021-01-27 14:52:25,573 [main] INFO ebanking - *******Test is Finished********
+2021-01-27 14:54:38,238 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 14:54:39,967 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 14:54:42,131 [main] INFO ebanking - *******Test is started********
+2021-01-27 14:54:42,476 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 14:54:42,635 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 14:54:44,644 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-27 14:54:45,984 [main] INFO ebanking - *******Test is Finished********
+2021-01-27 14:59:29,744 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 14:59:31,950 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 14:59:34,152 [main] INFO ebanking - *******Test is started********
+2021-01-27 14:59:34,405 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 14:59:34,534 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 14:59:37,303 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-27 14:59:38,682 [main] INFO ebanking - *******Test is Finished********
+2021-01-27 15:02:22,507 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 15:02:24,489 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 15:02:26,668 [main] INFO ebanking - *******Test is started********
+2021-01-27 15:02:26,968 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 15:02:27,092 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 15:02:29,579 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-27 15:02:31,145 [main] INFO ebanking - *******Test is Finished********
+2021-01-27 16:17:34,446 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 16:17:36,491 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 16:17:38,808 [main] INFO ebanking - *******Test is started********
+2021-01-27 16:17:39,082 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 16:17:39,230 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 16:17:40,828 [main] INFO ebanking - ********Login test passed*********
+2021-01-27 16:17:40,833 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-01-27 16:17:42,182 [main] INFO ebanking - *******Test is Finished********
+2021-01-27 16:19:14,948 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 16:19:16,739 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 16:19:18,918 [main] INFO ebanking - *******Test is started********
+2021-01-27 16:19:19,180 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 16:19:19,313 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 16:19:20,839 [main] INFO ebanking - ********Login test passed*********
+2021-01-27 16:19:20,844 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-01-27 16:19:22,713 [main] INFO ebanking - *******Test is Finished********
+2021-01-27 16:21:23,961 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 16:21:25,821 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 16:21:28,009 [main] INFO ebanking - *******Test is started********
+2021-01-27 16:21:28,331 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 16:21:28,516 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 16:21:30,705 [main] INFO ebanking - ********Login test passed*********
+2021-01-27 16:21:30,713 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-01-27 16:21:32,130 [main] INFO ebanking - *******Test is Finished********
+2021-01-27 16:27:40,387 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-27 16:27:42,808 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-27 16:27:45,012 [main] INFO ebanking - *******Test is started********
+2021-01-27 16:27:45,371 [main] INFO ebanking - ********Entered UserName*********
+2021-01-27 16:27:45,549 [main] INFO ebanking - ********Entered Password*********
+2021-01-27 16:27:47,238 [main] INFO ebanking - ********Login test passed*********
+2021-01-27 16:27:47,247 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-01-27 16:27:48,671 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:11:22,168 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:11:24,635 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:11:28,407 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:14:22,906 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:14:24,844 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:14:29,579 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:16:59,113 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:17:00,859 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:17:05,508 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:21:43,161 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:21:45,423 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:21:48,617 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:21:48,805 [main] INFO ebanking - User name provided
+2021-01-31 14:21:48,934 [main] INFO ebanking - Password provided
+2021-01-31 14:21:51,509 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:21:51,511 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:21:51,774 [main] INFO ebanking - User name provided
+2021-01-31 14:21:52,036 [main] INFO ebanking - Password provided
+2021-01-31 14:21:54,023 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:21:54,025 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:21:54,230 [main] INFO ebanking - User name provided
+2021-01-31 14:21:54,400 [main] INFO ebanking - Password provided
+2021-01-31 14:21:56,248 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:21:56,250 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:21:56,455 [main] INFO ebanking - User name provided
+2021-01-31 14:21:56,621 [main] INFO ebanking - Password provided
+2021-01-31 14:21:58,667 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:21:59,954 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:23:57,774 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:23:59,511 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:24:02,745 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:24:02,939 [main] INFO ebanking - User name provided
+2021-01-31 14:24:03,069 [main] INFO ebanking - Password provided
+2021-01-31 14:24:04,695 [main] INFO ebanking - Login Passed
+2021-01-31 14:24:07,045 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:24:07,049 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:24:18,107 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:24:18,108 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:24:29,475 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:24:29,476 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:25:11,877 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:26:08,853 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:26:10,977 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:26:14,446 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:26:14,644 [main] INFO ebanking - User name provided
+2021-01-31 14:26:14,791 [main] INFO ebanking - Password provided
+2021-01-31 14:26:16,187 [main] INFO ebanking - Login Passed
+2021-01-31 14:26:18,301 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:26:18,303 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:26:23,884 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:27:14,121 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:27:16,008 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:27:19,792 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:27:20,127 [main] INFO ebanking - User name provided
+2021-01-31 14:27:20,269 [main] INFO ebanking - Password provided
+2021-01-31 14:27:21,849 [main] INFO ebanking - Login Passed
+2021-01-31 14:27:23,945 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:27:23,947 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:27:27,101 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:28:24,835 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:28:26,854 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:28:30,232 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:28:30,409 [main] INFO ebanking - User name provided
+2021-01-31 14:28:30,528 [main] INFO ebanking - Password provided
+2021-01-31 14:28:32,550 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:28:32,553 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:28:32,707 [main] INFO ebanking - User name provided
+2021-01-31 14:28:32,890 [main] INFO ebanking - Password provided
+2021-01-31 14:28:34,928 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:28:34,931 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:28:35,037 [main] INFO ebanking - User name provided
+2021-01-31 14:28:35,177 [main] INFO ebanking - Password provided
+2021-01-31 14:28:37,346 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:28:37,349 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:28:37,540 [main] INFO ebanking - User name provided
+2021-01-31 14:28:37,692 [main] INFO ebanking - Password provided
+2021-01-31 14:28:39,644 [main] INFO ebanking - Login Passed
+2021-01-31 14:28:41,829 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:28:43,185 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:38:10,318 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:38:11,946 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:38:15,747 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:38:16,103 [main] INFO ebanking - User name provided
+2021-01-31 14:38:16,320 [main] INFO ebanking - Password provided
+2021-01-31 14:38:19,408 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:38:19,411 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:38:19,578 [main] INFO ebanking - User name provided
+2021-01-31 14:38:19,759 [main] INFO ebanking - Password provided
+2021-01-31 14:38:22,412 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:38:22,413 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:38:22,538 [main] INFO ebanking - User name provided
+2021-01-31 14:38:22,657 [main] INFO ebanking - Password provided
+2021-01-31 14:38:25,064 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:38:25,066 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:38:25,189 [main] INFO ebanking - User name provided
+2021-01-31 14:38:25,309 [main] INFO ebanking - Password provided
+2021-01-31 14:38:27,044 [main] INFO ebanking - Login Passed
+2021-01-31 14:38:38,603 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:38:40,110 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:44:59,947 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:45:01,454 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:45:04,209 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:45:04,337 [main] INFO ebanking - User name provided
+2021-01-31 14:45:04,429 [main] INFO ebanking - Password provided
+2021-01-31 14:45:06,303 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:45:06,304 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:45:06,384 [main] INFO ebanking - User name provided
+2021-01-31 14:45:06,463 [main] INFO ebanking - Password provided
+2021-01-31 14:45:07,754 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:45:07,755 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:45:07,830 [main] INFO ebanking - User name provided
+2021-01-31 14:45:07,904 [main] INFO ebanking - Password provided
+2021-01-31 14:45:09,299 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:45:09,300 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:45:09,376 [main] INFO ebanking - User name provided
+2021-01-31 14:45:09,458 [main] INFO ebanking - Password provided
+2021-01-31 14:45:10,367 [main] INFO ebanking - Login Passed
+2021-01-31 14:45:51,540 [main] INFO ebanking - *******Test is Finished********
+2021-01-31 14:46:57,974 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-01-31 14:46:59,254 [main] INFO ebanking - ********Navigated to Home page*********
+2021-01-31 14:47:01,944 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:47:02,079 [main] INFO ebanking - User name provided
+2021-01-31 14:47:02,172 [main] INFO ebanking - Password provided
+2021-01-31 14:47:03,871 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:47:03,872 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:47:03,949 [main] INFO ebanking - User name provided
+2021-01-31 14:47:04,024 [main] INFO ebanking - Password provided
+2021-01-31 14:47:05,528 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:47:05,529 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:47:05,608 [main] INFO ebanking - User name provided
+2021-01-31 14:47:05,680 [main] INFO ebanking - Password provided
+2021-01-31 14:47:07,029 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-01-31 14:47:07,030 [main] INFO ebanking - *******Test is started********
+2021-01-31 14:47:07,104 [main] INFO ebanking - User name provided
+2021-01-31 14:47:07,176 [main] INFO ebanking - Password provided
+2021-01-31 14:47:08,428 [main] INFO ebanking - Login Passed
+2021-01-31 14:47:08,429 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-01-31 14:47:09,361 [main] INFO ebanking - *******Test is Finished********
+2021-02-01 11:29:35,383 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-02-01 11:29:36,958 [main] INFO ebanking - ********Navigated to Home page*********
+2021-02-01 11:29:39,865 [main] INFO ebanking - *******Test is started********
+2021-02-01 11:29:39,994 [main] INFO ebanking - User name provided
+2021-02-01 11:29:40,079 [main] INFO ebanking - Password provided
+2021-02-01 11:29:42,409 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 11:29:42,410 [main] INFO ebanking - *******Test is started********
+2021-02-01 11:29:42,478 [main] INFO ebanking - User name provided
+2021-02-01 11:29:42,539 [main] INFO ebanking - Password provided
+2021-02-01 11:29:44,258 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 11:29:44,260 [main] INFO ebanking - *******Test is started********
+2021-02-01 11:29:44,328 [main] INFO ebanking - User name provided
+2021-02-01 11:29:44,387 [main] INFO ebanking - Password provided
+2021-02-01 11:29:46,034 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 11:29:46,035 [main] INFO ebanking - *******Test is started********
+2021-02-01 11:29:46,106 [main] INFO ebanking - User name provided
+2021-02-01 11:29:46,168 [main] INFO ebanking - Password provided
+2021-02-01 11:29:47,532 [main] INFO ebanking - Login Passed
+2021-02-01 11:29:47,533 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-02-01 11:29:48,594 [main] INFO ebanking - *******Test is Finished********
+2021-02-01 13:31:39,712 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-02-01 13:31:41,114 [main] INFO ebanking - ********Navigated to Home page*********
+2021-02-01 13:31:43,252 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:31:47,702 [main] INFO ebanking - Providing New Customer information
+2021-02-01 13:31:53,232 [main] INFO ebanking - Validation Started.....
+2021-02-01 13:31:54,278 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:31:55,201 [main] INFO ebanking - *******Test is Finished********
+2021-02-01 13:34:00,516 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-02-01 13:34:02,150 [main] INFO ebanking - ********Navigated to Home page*********
+2021-02-01 13:34:04,320 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:34:08,510 [main] INFO ebanking - Providing New Customer information
+2021-02-01 13:34:13,748 [main] INFO ebanking - Validation Started.....
+2021-02-01 13:34:13,758 [main] INFO ebanking - Failed to Add new Customer.
+2021-02-01 13:34:14,769 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:34:15,685 [main] INFO ebanking - *******Test is Finished********
+2021-02-01 13:38:34,151 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-02-01 13:38:36,284 [main] INFO ebanking - ********Navigated to Home page*********
+2021-02-01 13:38:38,524 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:38:38,771 [main] INFO ebanking - ********Entered UserName*********
+2021-02-01 13:38:38,904 [main] INFO ebanking - ********Entered Password*********
+2021-02-01 13:38:40,156 [main] INFO ebanking - ********Login test passed*********
+2021-02-01 13:38:40,160 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-02-01 13:38:44,260 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-02-01 13:38:46,374 [main] INFO ebanking - ********Navigated to Home page*********
+2021-02-01 13:38:49,729 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:38:49,871 [main] INFO ebanking - User name provided
+2021-02-01 13:38:49,983 [main] INFO ebanking - Password provided
+2021-02-01 13:38:52,392 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:38:52,393 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:38:52,489 [main] INFO ebanking - User name provided
+2021-02-01 13:38:52,594 [main] INFO ebanking - Password provided
+2021-02-01 13:38:54,413 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:38:54,414 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:38:54,505 [main] INFO ebanking - User name provided
+2021-02-01 13:38:54,600 [main] INFO ebanking - Password provided
+2021-02-01 13:38:56,698 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:38:56,701 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:38:56,924 [main] INFO ebanking - User name provided
+2021-02-01 13:38:57,067 [main] INFO ebanking - Password provided
+2021-02-01 13:38:59,027 [main] INFO ebanking - Login Passed
+2021-02-01 13:38:59,031 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-02-01 13:39:03,183 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-02-01 13:39:04,956 [main] INFO ebanking - ********Navigated to Home page*********
+2021-02-01 13:39:07,100 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:39:11,844 [main] INFO ebanking - Providing New Customer information
+2021-02-01 13:39:19,260 [main] INFO ebanking - Validation Started.....
+2021-02-01 13:39:19,280 [main] INFO ebanking - Failed to Add new Customer.
+2021-02-01 13:39:20,040 [main] INFO ebanking - *******Test is Successfully Execute********
+2021-02-01 13:39:21,227 [main] INFO ebanking - *******Test is Finished********
+2021-02-01 13:46:56,896 [main] INFO ebanking - ********Invoked Chrome Browser*********
+2021-02-01 13:46:59,205 [main] INFO ebanking - ********Navigated to Home page*********
+2021-02-01 13:47:02,773 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:47:03,113 [main] INFO ebanking - User name provided
+2021-02-01 13:47:03,246 [main] INFO ebanking - Password provided
+2021-02-01 13:47:05,566 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:47:05,568 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:47:05,678 [main] INFO ebanking - User name provided
+2021-02-01 13:47:05,793 [main] INFO ebanking - Password provided
+2021-02-01 13:47:07,822 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:47:07,824 [main] INFO ebanking - *******Test is started********
+2021-02-01 13:47:07,932 [main] INFO ebanking - User name provided
+2021-02-01 13:47:08,036 [main] INFO ebanking - Password provided
+2021-02-01 13:47:10,123 [main] INFO ebanking - *******Failure page ScreenShoot took********
+2021-02-01 13:47:11,380 [main] INFO ebanking - *******Test is Finished********
